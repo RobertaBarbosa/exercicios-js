@@ -19,3 +19,16 @@ Crie uma função que irá receber dois valores, o dividendo e o divisor. A fun�
 ## 05
 
 Elabore duas funções que recebem três parâmetros: capital inicial, taxa de juros e tempo de aplicação. A primeira função retornará o montante da aplicação financeira sob o regime de juros simples e a segunda retornará o valor da aplicação sob o regime de juros compostos.
+
+## 06
+
+Crie uma função que receba a nota de um aluno e retorne o conceito.
+90 a 100: A
+80 a 89: B
+70 a 79: C
+60 a 69: D
+0 a 59: E
+
+## 07
+
+Crie um algoritmo que armazene as receitas e despesas de uma família e imprima na tela se eles ficaram com saldo positivo ou negativo no mês.

@@ -8,7 +8,7 @@ function notaAlunos(nota) {
   } else if (nota >= 60 && nota <= 69) {
     console.log('D')
   } else if (nota <= 59 && nota >= 0) {
-    console.log('F')
+    console.log('E')
   } else {
     console.log('Nota inválida')
   }
